@@ -1,0 +1,10 @@
+.git
+.env
+node_modules
+storage
+bootstrap/cache
+vendor
+.DS_Store
+*.log
+*.tmp
+*.swp
